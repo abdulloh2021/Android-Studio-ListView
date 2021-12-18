@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Abdulloh Ujian 2</string>
+    <string name="starbuzz_logo">Starbuzz logo</string>
+    <string-array name="options">
+        <item>Jawa Barat</item>
+        <item>Jawa Tengah</item>
+        <item>Jawa Timur</item>
+    </string-array>
+
+
+</resources>
